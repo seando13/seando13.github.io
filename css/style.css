@@ -154,11 +154,13 @@ h3 {
 
 .fab.fa-github-alt, .fas.fa-external-link-square-alt {
   background-color: #000000;
+  border: 1px solid #000000;
   color: white;
 }
 
 .fab.fa-github-alt:hover, .fas.fa-external-link-square-alt:hover {
   color: #38B6FF;
+  border: 1px solid #000000;
   transition: 0.5s;
 }
 
