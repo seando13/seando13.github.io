@@ -1,5 +1,4 @@
 $(document).ready(function () {
-  console.log(`Is there anybody out there?`);
 
   $('body').addClass('fade-in');
 
